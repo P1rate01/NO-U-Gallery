@@ -1,0 +1,214 @@
+body {
+  color: White;
+  background-color: #121212;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.card-name {
+  font-weight: bold;
+  display: inline;
+}
+
+.information {
+  display: inline;
+}
+
+.no-u {
+  color: red;
+  display: inline;
+  font-weight: bold;
+}
+
+.ex {
+  color: #dbac00;
+  display: inline;
+  font-weight: bold;
+}
+
+.wii-u {
+  color: #0097c7;
+  display: inline;
+  font-weight: bold;
+}
+
+.submitter {
+  font-weight: bold;
+  display: inline;
+}
+
+.trigger-word {
+  font-weight: bold;
+  display: inline;
+}
+
+.inline {
+  display: inline;
+}
+
+@font-face {
+  font-family: 'UniSansHeavy';
+  src: url('UniSansHeavy.otf');
+}
+  
+.discordfont {
+  font-family: 'UniSansHeavy';
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+  
+img {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  user-zoom: none;
+  user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  border-radius: 10px;
+}
+
+img, button {
+  margin: 0px 10px 0px 10px;
+}
+
+.madeby { 
+  vertical-align: middle;
+  border-radius: 50%;
+}
+
+.pfp { 
+  vertical-align: middle;
+  border-radius: 50%;
+}
+
+.center_img_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn_center {
+  margin-top: 1rem;
+}
+
+.asian {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.desiignerr {
+  font-family: 'Vernada', sans-serif;
+}
+
+span [data-href] {
+  cursor: pointer;
+}
+
+.btn {
+  background-color: #c40c00;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+  
+.btn:hover {
+  background-color: rgb(189, 0, 0);
+  color: white;
+}
+
+.btn2 {
+  background-color: #0849a3;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+  
+.btn2:hover {
+  background-color: darkblue;
+}
+
+.btn3 {
+  background-color: #328a10;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+  
+.btn3:hover {
+  background-color: darkgreen;
+}
+
+.btn4 {
+  background-color: #e7d004;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+  
+.btn4:hover {
+  background-color: orange;
+}
+
+.btnU {
+  background-color: #0097c7;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+  
+.btnU:hover {
+  background-color: #007092;
+}
+
+/*
+
+a:link {
+  color: red; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+  
+a:visited {
+  color: rgb(206, 0, 34);
+  background-color: transparent;
+  text-decoration: none;
+}
+  
+a:hover {
+  color: rgb(189, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+  
+a:active {
+  color: rgb(189, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+*/

@@ -1,0 +1,12 @@
+
+
+   <br>
+   <br>
+   <br>
+   <p><p class="card-name"> </p> <p class="no-u">NO U!</p> Card</p>
+   <p><p class="trigger-word">Info: </p><p class="information"> </p>
+   <h6>(Submitted by: <p class="submitter"> </a>)</h6>
+   <img width="248" height="380" src=" " alt="Image not loaded" oncontextmenu="return false;">
+   <br>
+   <br>
+   <a href=" " class="btn"><i class="fa fa-download"></i> Download</a>
